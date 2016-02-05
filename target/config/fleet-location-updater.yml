@@ -1,2 +1,2 @@
 hystrix:
-  command.default.circuitBreaker.forceOpen: false
+  command.default.circuitBreaker.forceOpen: true
